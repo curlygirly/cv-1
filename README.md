@@ -1,3 +1,5 @@
+WORK IN PROGRESS
+
 ##[:email: Sanjay Purswani](mailto:sanjsanj@hotmail.com)
 
 [Fortitudo et misericordiam](https://translate.google.co.uk/?ie=UTF-8&hl=en&client=tw-ob#en/la/Strength%20and%20kindness)
@@ -34,7 +36,7 @@ the people
 
 Something
 
-- Passed every [weekend challenge](), using Ruby, Rails, JavaScript, JQuery, AngularJS, HTML, CSS and more, all test-driven  
+- Completed [every weekend challenge](public/week12_stickers.JPG), using Ruby, Rails, JavaScript, JQuery, AngularJS, HTML, CSS and more, all test-driven  
 - I am the [Git master](http://www.github.com/sanjsanj) with over a thousand commits and a hundred-day streak, I :heart: Git  
 - Blogged about my experience and [personal development at Makers every day](http://sanjsanj.github.io)
 
