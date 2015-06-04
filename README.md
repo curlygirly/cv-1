@@ -1,6 +1,6 @@
 ##[:email: Sanjay Purswani](mailto:sanjsanj@hotmail.com)
 
-[My face](https://avatars3.githubusercontent.com/u/4478671?v=3&s=460)
+![My face](https://avatars3.githubusercontent.com/u/4478671?v=3&s=460)
 
 [Fortitudo et misericordiam](https://translate.google.co.uk/?ie=UTF-8&hl=en&client=tw-ob#en/la/Strength%20and%20kindness)
 
