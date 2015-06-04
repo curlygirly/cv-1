@@ -1,4 +1,4 @@
-<link rel="text/stylesheet" src="public/stylesheet.css">
+<link rel="text/stylesheet" href="public/stylesheet.css">
 
 ##[:email: Sanjay Purswani](mailto:sanjsanj@hotmail.com)
 
