@@ -1,5 +1,6 @@
 <link rel="text/stylesheet" href="public/stylesheet.css">
 
+<body>
 ##[:email: Sanjay Purswani](mailto:sanjsanj@hotmail.com)
 
 [Fortitudo et misericordiam](https://translate.google.co.uk/?ie=UTF-8&hl=en&client=tw-ob#en/la/Strength%20and%20kindness)
@@ -95,3 +96,4 @@ Self-taught designer with 150k downloads on the iTunes app store, a long list of
 
 **Paras Jaims Jewellers, Hong Kong** (1999 to 2010)  
 *Retail manager, Designer*
+</body>
