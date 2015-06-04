@@ -11,7 +11,7 @@ Looking for an electric team of hardworking devs that I can be a part of and lea
 [Gymbuddy](https://github.com/sanjsanj/gymbuddy) | [MakerBase](https://github.com/Makerbase/makerbase) | [ToDoList Manager](https://github.com/sanjsanj/todo_challenge) | [Bowling Scoresheet](https://github.com/sanjsanj/bowling-challenge)  
 :---: | :---: | :---: | :---:  
 ![gymbuddy img](http://www.sleepcouncil.org.uk/wp-content/uploads/2014/11/image-icon.png) | ![MakerBase img](http://www.sleepcouncil.org.uk/wp-content/uploads/2014/11/image-icon.png) | ![ToDoList img](http://www.sleepcouncil.org.uk/wp-content/uploads/2014/11/image-icon.png) |
-![Bowling img](http://www.sleepcouncil.org.uk/wp-content/uploads/2014/11/image-icon.png)
+![Bowling img](http://www.sleepcouncil.org.uk/wp-content/uploads/2014/11/image-icon.png)  
 4-people, 2 days | 4-people, 2 weeks | Solo, 1 weekend | Solo, 1 weekend
 Rails | Rails | JS, AngularJS | JS, AngularJS
 
