@@ -1,5 +1,7 @@
 ##Sanjay Purswani
 
+:email: [Email me](mailto:sanjsanj@hotmail.com)
+
 [Fortitudo et misericordiam](https://translate.google.co.uk/?ie=UTF-8&hl=en&client=tw-ob#en/la/Strength%20and%20kindness)
 
 A friendly and inquisitive chap who gets a little too excited about troubleshooting.  
@@ -81,11 +83,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ####Any other qualifications
 
 - Member of MENSA at age 12, scoring in the top percentile of the population  
-- Since then I've done enough stupid things to question the validity of MENSA's testing procedure
+- Since then I've done enough stupid things to question the validity of MENSA's testing procedure  
+- My lawyers tell me I can't sue
 
 ##Experience
 
-**Company Name** (start_date to end_date)
-*Your job title*  
-**Company Name** (start_date to end_date)
-*Your job title*  
+**[VMAL](http://vmal.co.uk/)** (2013 to 2015)  
+*Motion graphics lead designer, General graphics designer*
+
+**[Freelance Designer](http://www.designsanj.com)** (2010 to 2015)  
+*Motion graphics, VFX, Post-production, Web and Print designer*
+
+**Paras Jaims Jewellers** (1999 to 2010)  
+*Retail manager, Designer*
