@@ -1,11 +1,8 @@
-<link rel="text/stylesheet" href="public/stylesheet.css">
-
-<body>
 ##[:email: Sanjay Purswani](mailto:sanjsanj@hotmail.com)
 
 [Fortitudo et misericordiam](https://translate.google.co.uk/?ie=UTF-8&hl=en&client=tw-ob#en/la/Strength%20and%20kindness)
 
-<img align="left" src="https://avatars3.githubusercontent.com/u/4478671?v=3&s=150">
+<img align="left" src="public/myFace_withMargin.jpg?v=3&s=150">
  A friendly and inquisitive chap who gets a little too excited about troubleshooting.  
 I've had awesome careers in the Luxury and Creative sectors and am not scared of new challenges or of failing.  
 Looking for an electric team of hardworking devs that I can be a part of and learn from, ideally with exposure to full-stack but mainly in a front-end role using CSS, AngularJS and my experience as a 3D artist.  I'm very good with clients and am happy to work closely with them.
@@ -96,4 +93,3 @@ Self-taught designer with 150k downloads on the iTunes app store, a long list of
 
 **Paras Jaims Jewellers, Hong Kong** (1999 to 2010)  
 *Retail manager, Designer*
-</body>
