@@ -1,6 +1,6 @@
 ##Sanjay Purswani
 
-[Fortitudo et misericordiam](https://www.google.co.uk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=latin%20translation)
+[Fortitudo et misericordiam](https://translate.google.co.uk/?ie=UTF-8&hl=en&client=tw-ob#en/la/Strength%20and%20kindness)
 
 A friendly and inquisitive chap who gets a little too excited about troubleshooting.  
 I've had awesome careers in the Luxury and Creative sectors and am not scared of new challenges or of failing.  
@@ -47,6 +47,7 @@ Self-taught
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
+- [motion graphics](http://www.designsanj.com)  
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
