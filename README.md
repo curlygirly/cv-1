@@ -30,9 +30,9 @@ agile
 
 Something
 
-- Passed every weekend challenge [Like stickers?]()  
-- Blogged about my experience and development at Makers every day [Blog](http://sanjsanj.github.io)  
-- I am the Git master [Github](http://www.github.com/sanjsanj)  
+- Passed every [weekend challenge]()  
+- Blogged about my experience and development at [Makers every day](http://sanjsanj.github.io)  
+- I am the [Git master](http://www.github.com/sanjsanj)  
 - Do you know a coach at Makers?  Please ask them about me
 
 ####Not a CS graduate
