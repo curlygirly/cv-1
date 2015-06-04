@@ -1,6 +1,4 @@
-##Sanjay Purswani
-
-:email: [Email me](mailto:sanjsanj@hotmail.com)
+##[:email:Sanjay Purswani](mailto:sanjsanj@hotmail.com)
 
 [Fortitudo et misericordiam](https://translate.google.co.uk/?ie=UTF-8&hl=en&client=tw-ob#en/la/Strength%20and%20kindness)
 
@@ -34,8 +32,7 @@ Something
 
 - Passed every [weekend challenge]()  
 - Blogged about my experience and development at [Makers every day](http://sanjsanj.github.io)  
-- I am the [Git master](http://www.github.com/sanjsanj)  
-- Do you know a coach at Makers?  Please ask them about me
+- I am the [Git master](http://www.github.com/sanjsanj)
 
 ####Not a CS graduate
 
@@ -49,13 +46,9 @@ Because I haven't got an evil Computer Sciences degree
 
 Self-taught designer with 150k downloads on the iTunes app store, a long list of clients for my design work and a [LinkedIn profile with good recommendations](https://www.linkedin.com/in/sanjaypurswani#recommendations) over the last 4 years
 
-- My general 3d [motion graphics showreel](http://www.designsanj.com)  
-- [music video breakdown reel](https://vimeo.com/119332812?from=outro-embed)  
-- My [Behance creative portfolio](https://www.behance.net/designsanj)  
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- My general [3d motion graphics showreel](http://www.designsanj.com)  
+- My last big project before Makers, [music video breakdown reel](https://vimeo.com/119332812?from=outro-embed)  
+- My [Behance creative portfolio](https://www.behance.net/designsanj)
 
 ##Education
 
