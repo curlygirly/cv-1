@@ -47,7 +47,9 @@ Self-taught
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-- [motion graphics](http://www.designsanj.com)  
+- [motion graphics showreel](http://www.designsanj.com)  
+- [music video breakdown reel](https://vimeo.com/119332812?from=outro-embed)  
+- My [Behance creative portfolio](https://www.behance.net/designsanj)  
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
