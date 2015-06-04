@@ -3,16 +3,16 @@
 [Fortitudo et misericordiam](https://translate.google.co.uk/?ie=UTF-8&hl=en&client=tw-ob#en/la/Strength%20and%20kindness)
 
 <img align="left" src="public/myFace_withMargin.jpg" width="150px">
- A friendly and inquisitive chap who gets a little too excited about troubleshooting.  
-I've had awesome careers in the Luxury and Creative sectors and am not scared of new challenges or of failing.  
-Looking for an electric team of hardworking devs that I can be a part of and learn from, ideally with exposure to full-stack but mainly in a front-end role using CSS, AngularJS and my experience as a 3D artist.  I'm very good with clients and am happy to work closely with them.
+ A friendly and inquisitive chap who gets a little too excited about troubleshooting and is happy to take on client-facing roles.  
+I've had awesome careers in the Luxury and Creative sectors and I'm not scared of new challenges or failing.  
+Looking for an electric team of hardworking devs that I can be a part of and learn from, ideally with exposure to full-stack but mainly in a front-end role using CSS, AngularJS and my experience as a 3D artist.
 
 ##Selected projects
 
 | [Gymbuddy](https://github.com/sanjsanj/gymbuddy#gym-buddy---a-listings-and-contact-website) | [MakerBase](https://github.com/Makerbase/makerbase#makerbase) | [ToDoList-Manager](https://github.com/sanjsanj/todo_challenge#todolist-manager) | [Bowling-Scoresheet](https://github.com/sanjsanj/bowling-challenge#bowling-challenge) |
 | :---: | :---: | :---: | :---: |
 | 4-people, 2 days | 4-people, 2 weeks | Solo, 1 weekend | Solo, 1 weekend |
-| Rails | Rails | JS, AngularJS | JS, AngularJS |
+| Rails, PostgreSQL | Rails, PostgreSQL | JS, AngularJS | JS, AngularJS |
 
 
 ##Skills
@@ -34,17 +34,17 @@ the people
 
 Something
 
-- Passed every [weekend challenge]()  
-- I am the [Git master](http://www.github.com/sanjsanj)  
+- Passed every [weekend challenge](), using Ruby, Rails, JavaScript, JQuery, AngularJS, HTML, CSS and more, all test-driven  
+- I am the [Git master](http://www.github.com/sanjsanj) with over a thousand commits and a hundred-day streak, I :heart: Git  
 - Blogged about my experience and [personal development at Makers every day](http://sanjsanj.github.io)
 
 ####Not a CS graduate
 
 Because I haven't got an evil Computer Sciences degree you won't have to wait 6 months for me to;
 
-- Unlearn 3 years of mostly superceded dogma with no real-world experience  
+- Unlearn 3 years of mostly superceded dogma and no real-world experience  
 - Contribute immediately with practical knowledge of researching, designing, testing, developing, debugging and deploying  
-- Learn how to learn myself
+- Learn how to learn myself so I can migrate to whatever languages and frameworks a task requires
 
 ####Animation and post-production
 
@@ -83,10 +83,16 @@ Self-taught designer with 150k downloads on the iTunes app store, a long list of
 - Since then I've done enough stupid things to question the validity of MENSA's testing procedures  
 - My lawyers tell me I can't sue
 
+####Favourite show
+
+- South Park
+- Curb Your Enthusiasm
+- Red Dwarf
+
 ##Experience
 
 **[VMAL, London](http://vmal.co.uk/)** (2013 to 2015)  
-*Motion graphics lead designer, General graphics designer*
+*Lead motionographer, General graphics designer*
 
 **[Freelance Designer, London](http://www.designsanj.com)** (2010 to 2015)  
 *Motion graphics, VFX, Post-production, Web and Print designer*
