@@ -8,7 +8,7 @@ Looking for an electric team of hardworking devs that I can be a part of and lea
 
 ##Selected projects
 
-| [Gymbuddy](https://github.com/sanjsanj/gymbuddy) | [MakerBase](https://github.com/Makerbase/makerbase) | [ToDoList-Manager](https://github.com/sanjsanj/todo_challenge) | [Bowling-Scoresheet](https://github.com/sanjsanj/bowling-challenge) |
+| [Gymbuddy](https://github.com/sanjsanj/gymbuddy#gym-buddy---a-listings-and-contact-website) | [MakerBase](https://github.com/Makerbase/makerbase#makerbase) | [ToDoList-Manager](https://github.com/sanjsanj/todo_challenge#todolist-manager) | [Bowling-Scoresheet](https://github.com/sanjsanj/bowling-challenge#bowling-challenge) |
 | :---: | :---: | :---: | :---: |
 | 4-people, 2 days | 4-people, 2 weeks | Solo, 1 weekend | Solo, 1 weekend |
 | Rails | Rails | JS, AngularJS | JS, AngularJS |
