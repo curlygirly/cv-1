@@ -2,7 +2,7 @@
 
 [Fortitudo et misericordiam](https://translate.google.co.uk/?ie=UTF-8&hl=en&client=tw-ob#en/la/Strength%20and%20kindness)
 
-<img style="align:left;" src="https://avatars3.githubusercontent.com/u/4478671?v=3&s=150">
+<img style="margin-right: 25px;" align="left" src="https://avatars3.githubusercontent.com/u/4478671?v=3&s=150">
  A friendly and inquisitive chap who gets a little too excited about troubleshooting.  
 I've had awesome careers in the Luxury and Creative sectors and am not scared of new challenges or of failing.  
 Looking for an electric team of hardworking devs that I can be a part of and learn from, ideally with exposure to full-stack but mainly in a front-end role using CSS, AngularJS and my experience as a 3D artist.  I'm very good with clients and am happy to work closely with them.
