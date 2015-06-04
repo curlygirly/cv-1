@@ -6,7 +6,7 @@
 
 A friendly and inquisitive chap who gets a little too excited about troubleshooting.  
 I've had awesome careers in the Luxury and Creative sectors and am not scared of new challenges or of failing.  
-Looking for an electric team of hardworking devs that I can be a part of and learn from, ideally with exposure to full-stack but mainly in a front-end role using CSS, AngularJS and my experience as a 3D artist.  
+Looking for an electric team of hardworking devs that I can be a part of and learn from, ideally with exposure to full-stack but mainly in a front-end role using CSS, AngularJS and my experience as a 3D artist.  I would love to work closely with clients.
 
 ##Selected projects
 
@@ -39,17 +39,17 @@ Something
 
 ####Not a CS graduate
 
-You won't have to wait 6 months for me to unlearn all the outdated dogma that is drilled in to a CS grad, or for me to actually be able to contribute to a team, or for me to learn how to learn myself, or to get some life experience.
+Because I haven't got an evil Computer Sciences degree
 
--
+- You won't have to wait 6 months for me to unlearn 3 years of outdated dogma  
+- Or for me to contribute to a team with my practical knowledge of testing and web dev  
+- Or for me to learn how to learn myself
 
 ####Animation and post-production
 
-Self-taught
+Self-taught designer with 150k downloads on the iTunes app store, a long list of clients for my design work and a [LinkedIn profile with good recommendations](https://www.linkedin.com/in/sanjaypurswani#recommendations) over the last 4 years
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- [motion graphics showreel](http://www.designsanj.com)  
+- My general 3d [motion graphics showreel](http://www.designsanj.com)  
 - [music video breakdown reel](https://vimeo.com/119332812?from=outro-embed)  
 - My [Behance creative portfolio](https://www.behance.net/designsanj)  
 - I achieved A during my work at B (job, or otherwise)
@@ -83,16 +83,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ####Any other qualifications
 
 - Member of MENSA at age 12, scoring in the top percentile of the population  
-- Since then I've done enough stupid things to question the validity of MENSA's testing procedure  
+- Since then I've done enough stupid things to question the validity of MENSA's testing procedures  
 - My lawyers tell me I can't sue
 
 ##Experience
 
-**[VMAL](http://vmal.co.uk/)** (2013 to 2015)  
+**[VMAL, London](http://vmal.co.uk/)** (2013 to 2015)  
 *Motion graphics lead designer, General graphics designer*
 
-**[Freelance Designer](http://www.designsanj.com)** (2010 to 2015)  
+**[Freelance Designer, London](http://www.designsanj.com)** (2010 to 2015)  
 *Motion graphics, VFX, Post-production, Web and Print designer*
 
-**Paras Jaims Jewellers** (1999 to 2010)  
+**Paras Jaims Jewellers, Hong Kong** (1999 to 2010)  
 *Retail manager, Designer*
