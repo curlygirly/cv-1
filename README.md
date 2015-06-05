@@ -50,7 +50,7 @@ Because I haven't got an evil Computer Sciences degree you won't have to wait 6 
 
 ####Animation and post-production
 
-Self-taught designer with 150k downloads on the iTunes app store, a long list of clients for my design work and a LinkedIn profile with [strong recommendations](https://www.linkedin.com/in/sanjaypurswani#recommendations) over the last 4 years.
+Self-taught designer with over 150k downloads on the iTunes app store, a long list of clients for my design work and a LinkedIn profile with [strong recommendations](https://www.linkedin.com/in/sanjaypurswani#recommendations) over the last 4 years.  My main tools are [Cinema 4d](http://www.maxon.net/products/cinema-4d-studio/who-should-use-it.html), [After Effects](http://www.adobe.com/uk/products/aftereffects.html) and a billion industry-standard plugins.
 
 - My general [3d motion graphics showreel](http://www.designsanj.com)  
 - My last big project before Makers, [music video breakdown reel](https://vimeo.com/119332812?from=outro-embed)  
@@ -79,13 +79,13 @@ Self-taught designer with 150k downloads on the iTunes app store, a long list of
 - The most prestigious and coveted award in the Diamond industry  
 - Also the most difficult to obtain, I was the only person who passed the course first time around in my class of 20 people
 
-####Who are you?
+##Who are you?
 
 - Member of MENSA at age 12, scoring in the top percentile of the population  
 - Since then I've done enough stupid things to question the validity of MENSA's testing procedures  
 - My lawyers tell me I can't sue
 
-####Favourite show
+##Favourite shows
 
 - South Park
 - Curb Your Enthusiasm
