@@ -19,7 +19,7 @@ Looking for an electric team of hardworking devs that I can be a part of and lea
 
 ####Learned to learn
 
-I feel privileged to have spent the last 12 weeks at Makers Academy with the most intense, passionate and driven people I have ever met.  It pushed me further than I ever thought I could go and has given me many new life-long friends.  It's also introduced me to new opportunities like volunteering as a coach at [Codebr](http://www.codebar.io/)
+I feel privileged to have spent the last 12 weeks at Makers Academy with the most intense, passionate and driven people I have ever met.  It pushed me further than I ever thought I could go and has given me many new life-long friends.  It's also introduced me to new opportunities like volunteering as a coach at [Codebar.io](http://www.codebar.io/)
 
 - Completed [every weekend challenge](public/week12_stickers.JPG), using Ruby, Rails, JavaScript, JQuery, AngularJS, HTML, CSS and more, all test-driven and pair-programmed  
 - I am the [Git master](http://www.github.com/sanjsanj) with over a thousand commits and a hundred-day streak, I :heart: Git  
