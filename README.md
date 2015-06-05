@@ -1,8 +1,6 @@
-WORK IN PROGRESS
-
 ##[:email: Sanjay Purswani](mailto:sanjsanj@hotmail.com)
 
-[Fortitudo et misericordiam](https://translate.google.co.uk/?ie=UTF-8&hl=en&client=tw-ob#en/la/Strength%20and%20kindness)
+[*Fortitudo et misericordiam* - Strength and kindness](https://translate.google.co.uk/?ie=UTF-8&hl=en&client=tw-ob#en/la/Strength%20and%20kindness)
 
 <img align="left" src="public/myFace_withMargin.jpg" width="150px">
  A friendly and inquisitive chap who gets a little too excited about troubleshooting and is happy to take on client-facing roles.  
@@ -19,24 +17,11 @@ Looking for an electric team of hardworking devs that I can be a part of and lea
 
 ##Skills
 
-learned to learn
-coding
-css
-design
-animation
-vcs
-pairing
-TDD
-agile
-
-codebar
-the people
-
 ####Learned to learn
 
-Something
+I feel privileged to have spent the last 12 weeks at Makers Academy with the most intense, passionate and driven people I have ever met.  It pushed me further than I ever thought I could go and has given me many new life-long friends.  It's also introduced me to new opportunities like volunteering as a coach at [Codebr](http://www.codebar.io/)
 
-- Completed [every weekend challenge](public/week12_stickers.JPG), using Ruby, Rails, JavaScript, JQuery, AngularJS, HTML, CSS and more, all test-driven  
+- Completed [every weekend challenge](public/week12_stickers.JPG), using Ruby, Rails, JavaScript, JQuery, AngularJS, HTML, CSS and more, all test-driven and pair-programmed  
 - I am the [Git master](http://www.github.com/sanjsanj) with over a thousand commits and a hundred-day streak, I :heart: Git  
 - Blogged about my experience and [personal development at Makers every day](http://sanjsanj.github.io)
 
@@ -60,12 +45,9 @@ Self-taught designer with over 150k downloads on the iTunes app store, a long li
 
 ####Makers Academy (Graduated June 2015)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node, AngularJS
-- Rspec, Capybara, Cucumber, Jasmine, Karma, Protractor and more
+- Self-motivated independent learner who loves discovering new tricks, best thing ever is surprising the coaches  
+- Team player who genuinely likes people and infecting them with my sense of humour  
+- Failure is not an option, the one weekend I didn't get a pass from code review I worked my butt off to stay on top of the curriculum *and* get a pass on my previous fail
 
 ####University of Hertfordshire (Graduated 1999)
 
