@@ -1,10 +1,8 @@
 ##[:email: Sanjay Purswani](mailto:sanjsanj@hotmail.com)
 
-[*Fortitudo et misericordiam* - Strength and kindness](https://translate.google.co.uk/?ie=UTF-8&hl=en&client=tw-ob#en/la/Strength%20and%20kindness)
-
 <img align="left" src="public/myFace_withMargin.jpg" width="172px">
  A friendly and inquisitive chap who gets a little too excited about troubleshooting and is happy to take on client-facing roles.  
-I've had awesome careers in the Luxury and Creative sectors and I'm not scared of new challenges or failing.  
+I've had awesome careers in the Luxury and Creative sectors and I'm not scared of new challenges.  
 Looking for an electric team of hardworking devs that I can be a part of and learn from, ideally with exposure to full-stack but mainly in a front-end role using CSS, AngularJS and my experience as a 3D artist.
 
 ##Selected projects
@@ -19,9 +17,9 @@ Looking for an electric team of hardworking devs that I can be a part of and lea
 
 ####Learned to learn
 
-I feel privileged to have spent the last 12 weeks at Makers Academy with the most intense, passionate and driven people I have ever met.  It pushed me further than I ever thought I could go and has given me many new life-long friends.  It's also introduced me to new opportunities like volunteering as a coach at [Codebar.io](http://www.codebar.io/)
+I feel privileged to have spent the last 12 weeks at Makers Academy with the most intense, passionate and driven people I have ever met.  They pushed me further than I ever thought I could go and has given me many new life-long friends.  It's also introduced me to new opportunities like volunteering as a coach at [Codebar.io](http://www.codebar.io/) and being accepted to stay on after graduation as an alumni helper for new students.  
 
-- Completed [every weekend challenge](public/week12_stickers.JPG), using Ruby, Rails, JavaScript, JQuery, AngularJS, HTML, CSS and more, all test-driven and pair-programmed  
+- Completed [every weekend challenge](public/week12_stickers.JPG), using Ruby, Rails, JavaScript, JQuery, Node, AngularJS, HTML, CSS and more, all test-driven and pair-programmed  
 - I'm a [Git addict](http://www.github.com/sanjsanj) with over a thousand commits and a hundred-day streak  
 - Blogged about my experience and [personal development at Makers every day](http://sanjsanj.github.io)
 
@@ -53,7 +51,7 @@ Self-taught designer with over 150k downloads on the iTunes app store, a long li
 
 - Quantitative Methods for Business Decisions BA(Hons)  
 - Final project was a statistical analysis of the ageing population of Hertfordshire, done for and in conjunction with Hertfordshire County Council  
-- Enthusiastic member of the Judo society and Students' Union
+- Active member with responsibilities in the Judo society and students' union
 
 ####Gemological Institute of America  (Graduated 1996)
 
