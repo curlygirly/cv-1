@@ -59,12 +59,6 @@ Self-taught designer with over 150k downloads on the iTunes app store, a long li
 - The most prestigious and coveted award in the Diamond industry  
 - Also the most difficult to obtain, I was the only person who passed the course first time around in my class of 20 people
 
-##Who are you?
-
-- Member of MENSA at age 12, scoring in the top percentile of the population  
-- Since then I've done enough stupid things to question the validity of MENSA's testing procedures  
-- My lawyers tell me I can't sue
-
 ##Favourite shows
 
 - South Park
