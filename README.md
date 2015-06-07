@@ -19,7 +19,7 @@ Looking for an electric team of hardworking devs that I can be a part of and lea
 
 I feel privileged to have spent the last 12 weeks at Makers Academy with the most intense, passionate and driven people I have ever met.  They pushed me further than I ever thought I could go and has given me many new life-long friends.  It's also introduced me to new opportunities like volunteering as a coach at [Codebar.io](http://www.codebar.io/) and being accepted to stay on after graduation as an alumni helper for new students.  
 
-- Completed [every weekend challenge](public/week12_stickers.JPG), using Ruby, Rails, JavaScript, JQuery, Node, AngularJS, HTML, CSS and more, all test-driven and pair-programmed  
+- Completed [every weekend challenge](public/week12_stickers.JPG), using Ruby, Rails, JavaScript, JQuery, Node, AngularJS, HTML, CSS and more, all test-driven.  
 - I'm a [Git addict](http://www.github.com/sanjsanj) with over a thousand commits and a hundred-day streak  
 - Blogged about my experience and [personal development at Makers every day](http://sanjsanj.github.io)
 
@@ -27,7 +27,7 @@ I feel privileged to have spent the last 12 weeks at Makers Academy with the mos
 
 Because I haven't got an evil Computer Sciences degree you won't have to wait 6 months for me to;
 
-- Unlearn 3 years of mostly superceded dogma and no real-world experience  
+- Unlearn 3 years of mostly superceded dogma with no real-world experience  
 - Contribute immediately with practical knowledge of researching, designing, testing, developing, debugging and deploying  
 - Learn how to learn myself so I can migrate to whatever languages and frameworks a task requires
 
