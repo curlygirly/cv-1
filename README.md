@@ -17,9 +17,9 @@ Looking for an electric team of hardworking devs that I can be a part of and lea
 
 ####Learned to learn
 
-A fast paced 12-week curriculum at Makers Academy filled with intense pair-programming and exposure to theory and best practice during the week, and a solo weekend challenge every week gives us a thorough but concise induction to coding.  With no time to rest on our laurels we get used to adapting and learning new tech quick.
+A fast paced 12-week curriculum at Makers Academy filled with intense pair-programming and exposure to theory and best practice during the week, and a solo real-world challenge every weekend gives us a thorough but concise induction to coding.  With no time to rest on our laurels we get used to adapting, learning new tech quick and valuing teamwork.
 
-The bar is set so high that I couldn't do it wihout the support structure and comradery of the amazing people there that helped me be the best that I could be.  It also introduced me to new opportunities like volunteering as a coach at [Codebar.io](http://www.codebar.io/) and I'm very happy to say that I have been asked to stay on after graduation as an alumni helper for new students.
+The bar is set so high that I couldn't do it wihout the support structure and comradery of the amazing people there.  It also introduced me to new opportunities like volunteering as a coach at [Codebar.io](http://www.codebar.io/) and I'm very happy to say that I have been asked to stay on after graduation as an alumni helper for current students.
 
 - Completed [every weekend challenge](public/week12_stickers.JPG), using Ruby, Rails, JavaScript, JQuery, Node, AngularJS, HTML, CSS and more, all test-driven.  
 - I'm a [Git addict](http://www.github.com/sanjsanj) with over a thousand commits and a hundred-day streak  
@@ -35,7 +35,7 @@ Because I haven't got an evil Computer Sciences degree you won't have to wait 6 
 
 ####Animation and post-production
 
-Self-taught designer with over 150k downloads on the iTunes app store, a long list of clients for my design work and a LinkedIn profile with [strong recommendations](https://www.linkedin.com/in/sanjaypurswani#recommendations) over the last 4 years.  My main tools are [Cinema 4d](http://www.maxon.net/products/cinema-4d-studio/who-should-use-it.html), [After Effects](http://www.adobe.com/uk/products/aftereffects.html) and a billion industry-standard plugins.
+Self-taught designer with a long list of clients and a LinkedIn profile with [strong recommendations](https://www.linkedin.com/in/sanjaypurswani#recommendations) over the last 4 years.  My main tools are [Cinema 4d](http://www.maxon.net/products/cinema-4d-studio/who-should-use-it.html), [After Effects](http://www.adobe.com/uk/products/aftereffects.html) and a billion industry-standard plugins.
 
 - My general [3d motion graphics showreel](http://www.designsanj.com)  
 - My last big project before Makers, [music video breakdown reel](https://vimeo.com/119332812?from=outro-embed)  
@@ -45,7 +45,7 @@ Self-taught designer with over 150k downloads on the iTunes app store, a long li
 
 ####Makers Academy (Graduated June 2015)
 
-- Self-motivated independent learner who loves discovering new tricks, best thing ever is surprising the coaches  
+- Self-motivated and independent learner who loves discovering new tricks, best thing ever is surprising the coaches  
 - Team player who genuinely likes people and infecting them with my sense of humour  
 - Failure is not an option, the one weekend I didn't get a pass from code review I worked my butt off to stay on top of the curriculum *and* get a pass on my previous fail
 
