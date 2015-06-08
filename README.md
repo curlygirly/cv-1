@@ -17,7 +17,9 @@ Looking for an electric team of hardworking devs that I can be a part of and lea
 
 ####Learned to learn
 
-I feel privileged to have spent the last 12 weeks at Makers Academy with the most intense, passionate and driven people I have ever met.  They pushed me further than I ever thought I could go and has given me many new life-long friends.  It's also introduced me to new opportunities like volunteering as a coach at [Codebar.io](http://www.codebar.io/) and being accepted to stay on after graduation as an alumni helper for new students.  
+A fast paced 12-week curriculum at Makers Academy filled with intense pair-programming and exposure to theory and best practice during the week, and a solo weekend challenge every week gives us a thorough but concise induction to coding.  With no time to rest on our laurels we get used to adapting and learning new tech quick.
+
+The bar is set so high that I couldn't do it wihout the support structure and comradery of the amazing people there that helped me be the best that I could be.  It also introduced me to new opportunities like volunteering as a coach at [Codebar.io](http://www.codebar.io/) and I'm very happy to say that I have been asked to stay on after graduation as an alumni helper for new students.
 
 - Completed [every weekend challenge](public/week12_stickers.JPG), using Ruby, Rails, JavaScript, JQuery, Node, AngularJS, HTML, CSS and more, all test-driven.  
 - I'm a [Git addict](http://www.github.com/sanjsanj) with over a thousand commits and a hundred-day streak  
